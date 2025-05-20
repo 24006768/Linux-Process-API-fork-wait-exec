@@ -22,7 +22,7 @@ Write the C Program using Linux Process API - fork(), wait(), exec()
 
 Test the C Program for the desired output. 
 
-Developed by / Register No: Ramya G / 212224220078
+Developed by / Register No: 212224230048 / DAKSHA C
 
 # PROGRAM:
 
